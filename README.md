@@ -1,5 +1,5 @@
 # Online-Retail-Database-Project
-This Personal Website is assignment for Technical Project Assignment 4 of Web Development Basics at Skilvul x Kampus Merdeka Batch 5. For more detailed assignments, please follow the link below: https://github.com/impactbyte/full-stack-web-assignments/tree/master/TPA-004-backend
+Online Retail Database Design and Database is assignment for Technical Project Assignment (TPA) #4 of Web Development Basics at Skilvul x Kampus Merdeka Batch 5. For more detailed assignments, please follow the link below: https://github.com/impactbyte/full-stack-web-assignments/tree/master/TPA-004-backend
 ## Usage
 Untuk menggunakan script ini, anda harus menjalankannya secara berurutan sesuai fasenya agar tidak terjadi kesalahan.
 Berikut fase yang perlu diperhatikan :
